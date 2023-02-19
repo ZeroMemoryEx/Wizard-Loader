@@ -15,3 +15,8 @@ to perform various tasks. However, The PoC patch the Xwizard.exe binary on order
  * Loader
  
    ![image](https://user-images.githubusercontent.com/60795188/218912161-69e3fc4c-e652-444b-9b00-d8c82a7c4561.png)
+
+# DEMO 
+
+   https://user-images.githubusercontent.com/60795188/219962573-83a1601b-3a14-40d1-befd-12154e1b2943.mp4
+
